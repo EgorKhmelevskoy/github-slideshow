@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+/int e^(x^2/2)
 Use the left arrow to go back!
